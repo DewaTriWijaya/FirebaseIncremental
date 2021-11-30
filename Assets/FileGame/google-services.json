@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1094657983626",
+    "project_id": "dewa-incremental-game-dilo",
+    "storage_bucket": "dewa-incremental-game-dilo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094657983626:android:e6a17178773da76f599973",
+        "android_client_info": {
+          "package_name": "com.dewa.incrementalgamedilo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094657983626-e9fjkfhgnf88nhed3itkogcujjp57kmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFgT35UT3bCI4BIBTUSSMbIFLYxW0b9DA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094657983626-e9fjkfhgnf88nhed3itkogcujjp57kmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
